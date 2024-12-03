@@ -23,3 +23,4 @@ dane_internetowe[748, "Value"]
 
 #dodanie nowej wartości
 dane_internetowe[700, "Industry_aggregation_NZSIOC"]<-"Level 11"
+
